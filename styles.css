@@ -1,0 +1,28 @@
+p {
+  display: inline-block;
+  margin: 0;
+}
+
+.readable {
+  font-size: 12em;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}
+
+.italic {
+       font-style:italic;	
+}
+
+.fat {
+  font-weight: 700;
+}
