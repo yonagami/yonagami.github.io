@@ -1,22 +1,42 @@
 p {
   display: inline-block;
-  margin: 0;
+  margin: 5px;
+  background-color: #0c0f0a;
+  padding: 5px;
 }
 
 .readable {
-  font-size: 12em;
+  font-size: 10em;
 }
 
 .red {
   color: red;
 }
 
+.red:hover {
+  background-color: red;
+  color: #0c0f0a;
+  border: none;
+}
+
 .green {
   color: green;
 }
 
+.green:hover {
+  background-color: green;
+  color: #0c0f0a;
+  border: none;
+}
+
 .blue {
   color: blue;
+}
+
+.blue:hover {
+  background-color: blue;
+  color: #0c0f0a;
+  border: none;
 }
 
 .italic {
@@ -26,3 +46,43 @@ p {
 .fat {
   font-weight: 700;
 }
+
+.rwd12 {
+  color: brown;
+  font-family: Impact;
+  background-color: burlywood;
+}
+
+.rwd12:hover {
+  background-color: brown;
+  color: burlywood;
+}
+
+
+.rwd13 {
+  color: #11aC31;
+  font-family: sans-serif;
+  background-color: #55680D;
+  box-shadow: 0 0 20px 0 #3B7E20CC;
+}
+
+.rwd13:hover {
+  background-color: #11aC31;
+  color: #55680D;
+}
+
+
+
+
+
+.rwd14 {
+  color: white;
+  font-family: Tahoma;
+  background-color: #3b3b4f;
+}
+
+.rwd14:hover {
+  background-color: white;
+  color: #3b3b4f;
+}
+
