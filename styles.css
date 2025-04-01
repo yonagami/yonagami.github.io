@@ -6,7 +6,7 @@ p {
 }
 
 .readable {
-  font-size: 10em;
+  font-size: 9em;
 }
 
 .red {
@@ -85,4 +85,16 @@ p {
   background-color: white;
   color: #3b3b4f;
 }
+
+.rwd19 {
+  color: goldenrod;
+  font-family: Arial;
+  background-color: gold;
+}
+
+.rwd19:hover {
+  background-color: goldenrod;
+  color: gold;
+}
+
 
