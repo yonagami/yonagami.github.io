@@ -6,7 +6,7 @@ p {
 }
 
 .readable {
-  font-size: 8.5em;
+  font-size: 7.5em;
 }
 
 .red {
@@ -119,4 +119,44 @@ p {
 
 }
 
+/* Certified Full Stack Developer - HTML */
 
+
+.cfsd0103 {
+  color: #1188ff;
+  font-family: Courier;
+  background-color: #ffff00;
+
+}
+
+.cfsd0103:hover {
+  color: #b20403;
+  background-color: #1188ff;
+  box-shadow: 0 0 5px 5px #b20403;
+  border-radius: 40px;
+}
+
+
+.cfsd0105 {
+  color: #fedcba;
+  font-family: Tahoma;
+  background-color: #123456;
+
+}
+
+.cfsd0105:hover {
+  color: #123456;
+  background-color: #fedcba;
+}
+
+.cfsd0107 {
+  color: gold;
+  font-family: sans-serif;
+  background-color: black;
+
+}
+
+.cfsd0107:hover {
+  color: black;
+  background-color: gold;
+}
