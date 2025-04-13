@@ -6,7 +6,7 @@ p {
 }
 
 .readable {
-  font-size: 7.5em;
+  font-size: 6.0em;
 }
 
 .red {
@@ -117,6 +117,41 @@ p {
   border-radius: 30px 25px 60px 12px;
   transform: rotate(4deg);
 
+}
+
+
+.rwd22 {
+  text-align: center;
+  text-transform: uppercase;
+  padding: 12px;
+  background-color: #0a0a23;
+  color: #fff;
+  border-bottom: 4px solid #fdb347;
+
+}
+
+.rwd22:hover {
+
+  text-transform: lowercase;
+  background-color: #fff;
+  color: #0a0a23;
+}
+
+
+.rwd23 {
+  text-align: center;
+  padding: 12px;
+  background-color: #fff;
+  color: #000;
+  border-bottom: 4px solid #000;
+
+}
+
+.rwd23:hover {
+  padding: 6px;
+  background-color: #000;
+  color: #fff;
+  border-bottom: 8px solid #fff;
 }
 
 /* Certified Full Stack Developer - HTML */
