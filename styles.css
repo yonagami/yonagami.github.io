@@ -6,7 +6,7 @@ p {
 }
 
 .readable {
-  font-size: 6.0em;
+  font-size: 5.6em;
 }
 
 .red {
@@ -194,4 +194,38 @@ p {
 .cfsd0107:hover {
   color: black;
   background-color: gold;
+}
+
+.camperbot {
+  text-align: center;
+  padding: 12px;
+  background-color: #fff;
+  color: #00F;
+  border-bottom: 4px solid #fff;
+
+}
+
+.camperbot:hover {
+  padding: 6px;
+  text-transform: uppercase;
+  background-color: #00F;
+  color: #fff;
+  border-bottom: 8px solid #fff;
+}
+
+.curriculum {
+  text-align: center;
+  padding: 12px;
+  background-color: #fff;
+  color: #F00;
+  border-bottom: 4px solid #fff;
+
+}
+
+.curriculum:hover {
+  text-transform: uppercase;
+  padding: 4px;
+  background-color: #F00;
+  color: #fff;
+  border-bottom: 8px solid #fff;
 }
