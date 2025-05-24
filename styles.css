@@ -5,6 +5,10 @@ p {
   padding: 15px;
 }
 
+a {
+	text-decoration: none;
+}
+
 .readable {
   font-size: 5.6em;
 }
