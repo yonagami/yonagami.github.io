@@ -10,11 +10,12 @@ a {
 }
 
 .readable {
-  font-size: 5.6em;
+  font-size: 5.0em;
 }
 
 .red {
   color: red;
+	background-color: #0c0f0a;
 }
 
 .red:hover {
